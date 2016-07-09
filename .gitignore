@@ -268,7 +268,7 @@ packages/*
 
 ## uncomment the next line
 
-#!packages/repositories.config
+!packages/repositories.config
 
 
 
