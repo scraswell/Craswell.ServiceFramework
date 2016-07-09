@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Craswell.ServiceFramework.Sample/Craswell.ServiceFramework.Sample.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Craswell.ServiceFramework.Sample/CreatePackage.proj">
+    <Files>
+      <File FileName="Craswell.ServiceFramework.Sample/Craswell.ServiceFramework.Sample.csproj" Line="56" Column="66" />
+      <File FileName="Craswell.ServiceFramework.Sample/CreatePackage.proj" Line="44" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Craswell.ServiceFramework" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,12 @@
+[submodule "Craswell.Common"]
+	path = Craswell.Common
+	url = git@github.com:scraswell/Craswell.Common.git
+[submodule "Craswell.ServiceBase"]
+	path = Craswell.ServiceBase
+	url = git@github.com:scraswell/Craswell.ServiceBase.git
+[submodule "Craswell.ServiceBase.Proxies"]
+	path = Craswell.ServiceBase.Proxies
+	url = git@github.com:scraswell/Craswell.ServiceBase.Proxies.git
+[submodule "Craswell.ServiceFramework.Sample"]
+	path = Craswell.ServiceFramework.Sample
+	url = git@github.com:scraswell/Craswell.ServiceFramework.Sample.git
